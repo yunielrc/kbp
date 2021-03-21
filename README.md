@@ -2,4 +2,4 @@
 
 ## HOWTO
 
-[Intall Alpine in VirtualBox](HOWTO/INTALL-ALPINE-IN-VBOX.md)
+[Install Alpine in VirtualBox](HOWTO/INSTALL-ALPINE-IN-VBOX.md)
