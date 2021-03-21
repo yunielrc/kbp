@@ -1,4 +1,4 @@
-# Intall Alpine in VirtualBox
+# Install Alpine in VirtualBox
 
 ## Install virtualbox
 
